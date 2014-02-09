@@ -1,0 +1,5 @@
+# From .gitignore
+/npm-debug.log
+
+# Additions for .npmignore only
+/.npmignore
